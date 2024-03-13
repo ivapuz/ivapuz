@@ -7,6 +7,7 @@ With rich experience in full-stack development, I have held various positions as
 * Frontend development - Angular 5+, React(Redux, Hook), Next.js, Vue, HTML/CSS, Web3
 * Backend development - C#/.NET/ASP.NET, Flask, Django, Python, Node, Swagger, Typeorm, Ruby on Rails, Solidity
 * Fullstack development - MERN, MEAN, Vue+Laravel, Django + React, Next, Nuxt
+* Artificial Intelligence - GPT-3.5/4, ML Algorithms, LLM, Deep Learning, Computer Vision, Machine Learning, Chatbot, Deep Neural Network, TensorFlow, PyTorh, NLP algorithm
 
 I worked with numerous clients from all around the world from early startups to well-established companies. I always seek new opportunities for cooperation on projects around interesting dashboards or landing pages.
 
